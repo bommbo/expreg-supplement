@@ -7,5 +7,5 @@ Improves comment and content-line handling  in expreg
 
 ```elisp
 (use-package expreg-supplement
-  :straight (:host github :repo "bommbo/expreg-supplement")
+  :straight (:host github :repo "bommbo/expreg-supplement"))
 ```
